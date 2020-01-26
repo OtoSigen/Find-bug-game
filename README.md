@@ -1,1 +1,1 @@
-# Find-bug-game
+https://otosigen.github.io/Find-bug-game/
